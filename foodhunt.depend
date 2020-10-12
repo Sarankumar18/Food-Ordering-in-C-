@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1572578606 source:e:\foodhunt\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<time.h>
+	<string.h>
+
+1572495516 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1572495516 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1572495516 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1572495516 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1572495516 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1572495516 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1572495516 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
+1572555206 source:d:\foodhunt\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<time.h>
+	<string.h>
+
